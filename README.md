@@ -11,7 +11,7 @@ To run ths assignment please use the following steps:
 5. run the command "\i Desktop/RBC/create_database_objects.sql" to create the necessary schema and tables
 6. run the command "\i Desktop/RBC/insert_data.sql" to insert the data
 7. open python
-8. run the script create_sql_function.sql to locally test the different functions
+8. run the script create_sql_function.py to locally test the different functions
 
 Important Notes:
 1. You will need to change the filepath in insert_data.sql to accomendate the CSVs location your compurter
